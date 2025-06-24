@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.faiss
+*.csv
+*.json
+*.log
+*.sqlite3
+llama.cpp/build/
+data/
+models/
+generated_linkedin_posts.csv
+linkedin_index.faiss
