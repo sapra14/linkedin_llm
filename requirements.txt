@@ -1,0 +1,9 @@
+# requirements.txt
+selenium
+beautifulsoup4
+pandas
+sentence-transformers
+faiss-cpu
+openai
+streamlit
+llama-cpp-python
